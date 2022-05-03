@@ -1,3 +1,4 @@
+<style>
 h1 {
   color: red;
   animation: myanimation 2s infinite;
@@ -11,4 +12,5 @@ h1 {
     color: yellow;
   }
 }
+</style>
 <h1>Hello world!</h1>
